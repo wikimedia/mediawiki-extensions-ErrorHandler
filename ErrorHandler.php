@@ -75,8 +75,8 @@ $wgExtensionMessagesFiles['ErrorHandler'] = dirname( __FILE__ ) . '/ErrorHandler
  *
  * @param $errType Integer: type of error
  * @param $errMsg String: error message
- * @param $errFile String: file where the error occured
- * @param $errLine Integer: line where the error occured
+ * @param $errFile String: file where the error occurred
+ * @param $errLine Integer: line where the error occurred
  * @param $errVars Array: hmm?
  */
 function efErrorHandler( $errType, $errMsg, $errFile, $errLine, $errVars ){
