@@ -1556,6 +1556,7 @@ $messages['vo'] = array(
  */
 $messages['yi'] = array(
 	'errorhandler-errors' => 'גרײַזן:',
+	'errorhandler-error-warning' => 'ווארענונג',
 );
 
 /** Simplified Chinese (‪中文(简体)‬)
