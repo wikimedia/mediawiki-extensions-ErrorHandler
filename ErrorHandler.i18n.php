@@ -542,9 +542,9 @@ $messages['frp'] = array(
 	'errorhandler-error-core-warning' => 'Avèrtissement du gremél',
 	'errorhandler-error-compile-error' => 'Èrror de compilacion',
 	'errorhandler-error-compile-warning' => 'Avèrtissement de compilacion',
-	'errorhandler-error-user-error' => 'Èrror a l’utilisator',
-	'errorhandler-error-user-warning' => 'Avèrtissement a l’utilisator',
-	'errorhandler-error-user-notice' => 'Nota a l’utilisator',
+	'errorhandler-error-user-error' => 'Èrror a l’usanciér',
+	'errorhandler-error-user-warning' => 'Avèrtissement a l’usanciér',
+	'errorhandler-error-user-notice' => 'Nota a l’usanciér',
 	'errorhandler-error-strict' => 'Estandârds rêdos',
 	'errorhandler-error-recoverable' => 'Èrror fatala que pôt étre atrapâ',
 	'errorhandler-msg-text' => '$1 : $2 dens $3 (legne $4)',
@@ -1020,6 +1020,7 @@ $messages['nl'] = array(
 
 /** Norwegian Nynorsk (‪Norsk (nynorsk)‬)
  * @author Harald Khan
+ * @author Njardarlogar
  */
 $messages['nn'] = array(
 	'errorhandler-desc' => 'Feilhandtering for MediaWiki',
@@ -1514,7 +1515,7 @@ $messages['uk'] = array(
 	'errorhandler-trace-line-internal' => '[внутрішня функція]: $1',
 );
 
-/** Veps (Vepsan kel')
+/** Veps (Vepsän kel’)
  * @author Игорь Бродский
  */
 $messages['vep'] = array(
