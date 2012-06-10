@@ -800,9 +800,10 @@ $messages['it'] = array(
 /** Japanese (日本語)
  * @author Fryed-peach
  * @author Hosiryuhosi
+ * @author Shirayuki
  */
 $messages['ja'] = array(
-	'errorhandler-desc' => 'MediaWiki 用のエラーハンドラ',
+	'errorhandler-desc' => 'MediaWiki 用のエラーハンドラー',
 	'errorhandler-errors' => 'エラー:',
 	'errorhandler-error-fatal' => '致命的エラー',
 	'errorhandler-error-warning' => '警告',
