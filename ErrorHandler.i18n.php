@@ -144,7 +144,7 @@ $messages['arz'] = array(
 	'errorhandler-trace-line-internal' => '[وظيفة داخلية]: $1',
 );
 
-/** Azerbaijani (Azərbaycanca)
+/** Azerbaijani (azərbaycanca)
  * @author Cekli829
  */
 $messages['az'] = array(
@@ -183,7 +183,7 @@ $messages['be-tarask'] = array(
 	'errorhandler-trace-line-internal' => '[вонкавая функцыя]: $1',
 );
 
-/** Bulgarian (Български)
+/** Bulgarian (български)
  * @author DCLXVI
  */
 $messages['bg'] = array(
@@ -222,7 +222,7 @@ $messages['bn'] = array(
 	'errorhandler-error-strict' => 'কঠোর মান',
 );
 
-/** Breton (Brezhoneg)
+/** Breton (brezhoneg)
  * @author Fohanno
  * @author Fulup
  * @author Y-M D
@@ -252,7 +252,7 @@ $messages['br'] = array(
 	'errorhandler-trace-line-internal' => "[arc'hwel diabarzh] : $1",
 );
 
-/** Bosnian (Bosanski)
+/** Bosnian (bosanski)
  * @author CERminator
  */
 $messages['bs'] = array(
@@ -280,7 +280,7 @@ $messages['bs'] = array(
 	'errorhandler-trace-line-internal' => '[unutrašnja funkcija]: $1',
 );
 
-/** Catalan (Català)
+/** Catalan (català)
  * @author Aleator
  * @author Paucabot
  */
@@ -291,7 +291,7 @@ $messages['ca'] = array(
 	'errorhandler-error-user-error' => "Error d'usuari",
 );
 
-/** Czech (Česky)
+/** Czech (česky)
  * @author Jkjk
  */
 $messages['cs'] = array(
@@ -427,7 +427,7 @@ $messages['eo'] = array(
 	'errorhandler-trace-line-internal' => '[interna funkcio]: $1',
 );
 
-/** Spanish (Español)
+/** Spanish (español)
  * @author Antur
  * @author Sanbec
  */
@@ -456,14 +456,14 @@ $messages['es'] = array(
 	'errorhandler-trace-line-internal' => '[función interna]: $1',
 );
 
-/** Basque (Euskara)
+/** Basque (euskara)
  * @author Kobazulo
  */
 $messages['eu'] = array(
 	'errorhandler-errors' => 'Erroreak:',
 );
 
-/** Finnish (Suomi)
+/** Finnish (suomi)
  * @author Cimon Avaro
  * @author Crt
  * @author Mobe
@@ -495,7 +495,7 @@ $messages['fi'] = array(
 	'errorhandler-trace-line-internal' => '[sisäinen funktio]: $1',
 );
 
-/** French (Français)
+/** French (français)
  * @author IAlex
  * @author McDutchie
  * @author PieRRoMaN
@@ -526,7 +526,7 @@ $messages['fr'] = array(
 	'errorhandler-trace-line-internal' => '[fonction interne] : $1',
 );
 
-/** Franco-Provençal (Arpetan)
+/** Franco-Provençal (arpetan)
  * @author Cedric31
  * @author ChrisPtDe
  */
@@ -683,7 +683,7 @@ $messages['hsb'] = array(
 	'errorhandler-trace-line-internal' => '[interna funkcija]: $1',
 );
 
-/** Hungarian (Magyar)
+/** Hungarian (magyar)
  * @author Glanthor Reviol
  */
 $messages['hu'] = array(
@@ -711,7 +711,7 @@ $messages['hu'] = array(
 	'errorhandler-trace-line-internal' => '[belső függvény]: $1',
 );
 
-/** Interlingua (Interlingua)
+/** Interlingua (interlingua)
  * @author McDutchie
  */
 $messages['ia'] = array(
@@ -769,7 +769,7 @@ $messages['id'] = array(
 	'errorhandler-trace-line-internal' => '[fungsi internal]: $1',
 );
 
-/** Italian (Italiano)
+/** Italian (italiano)
  * @author Pietrodn
  */
 $messages['it'] = array(
@@ -911,7 +911,7 @@ $messages['lb'] = array(
 	'errorhandler-trace-line-internal' => '[intern Fonctioun]: $1',
 );
 
-/** Macedonian (Македонски)
+/** Macedonian (македонски)
  * @author Bjankuloski06
  */
 $messages['mk'] = array(
@@ -1019,7 +1019,7 @@ $messages['nl'] = array(
 	'errorhandler-trace-line-internal' => '[interne functie]: $1',
 );
 
-/** Norwegian Nynorsk (‪Norsk (nynorsk)‬)
+/** Norwegian Nynorsk (‪norsk (nynorsk)‬)
  * @author Harald Khan
  * @author Njardarlogar
  */
@@ -1048,7 +1048,7 @@ $messages['nn'] = array(
 	'errorhandler-trace-line-internal' => '[intern funksjon]: $1',
 );
 
-/** Occitan (Occitan)
+/** Occitan (occitan)
  * @author Cedric31
  */
 $messages['oc'] = array(
@@ -1094,7 +1094,7 @@ $messages['pdc'] = array(
 	'errorhandler-error-warning' => 'Warning',
 );
 
-/** Polish (Polski)
+/** Polish (polski)
  * @author Maikking
  * @author Sp5uhe
  */
@@ -1168,7 +1168,7 @@ $messages['ps'] = array(
 	'errorhandler-error-user-warning' => 'د کارن ګواښنه',
 );
 
-/** Portuguese (Português)
+/** Portuguese (português)
  * @author Hamilton Abreu
  * @author Malafaya
  */
@@ -1197,7 +1197,7 @@ $messages['pt'] = array(
 	'errorhandler-trace-line-internal' => '[função interna]: $1',
 );
 
-/** Brazilian Portuguese (Português do Brasil)
+/** Brazilian Portuguese (português do Brasil)
  * @author Eduardo.mps
  */
 $messages['pt-br'] = array(
@@ -1225,7 +1225,7 @@ $messages['pt-br'] = array(
 	'errorhandler-trace-line-internal' => '[função interna]: $1',
 );
 
-/** Romanian (Română)
+/** Romanian (română)
  * @author Firilacroco
  * @author KlaudiuMihaila
  * @author Minisarm
@@ -1251,7 +1251,7 @@ $messages['ro'] = array(
 	'errorhandler-trace-line' => '$1 (linia $2): $3',
 );
 
-/** Tarandíne (Tarandíne)
+/** tarandíne (tarandíne)
  * @author Joetaras
  */
 $messages['roa-tara'] = array(
@@ -1261,7 +1261,7 @@ $messages['roa-tara'] = array(
 	'errorhandler-msg-html' => "<b>$1</b> : <i>$2</i> jndr'à <b>$3</b> (linèe <b>$4</b>)",
 );
 
-/** Russian (Русский)
+/** Russian (русский)
  * @author Ferrer
  * @author Innv
  * @author Rubin
@@ -1292,14 +1292,14 @@ $messages['ru'] = array(
 	'errorhandler-trace-line-internal' => '[внутренняя функция]: $1',
 );
 
-/** Sicilian (Sicilianu)
+/** Sicilian (sicilianu)
  * @author Aushulz
  */
 $messages['scn'] = array(
 	'errorhandler-error-warning' => 'Accura',
 );
 
-/** Slovak (Slovenčina)
+/** Slovak (slovenčina)
  * @author Helix84
  */
 $messages['sk'] = array(
@@ -1327,7 +1327,7 @@ $messages['sk'] = array(
 	'errorhandler-trace-line-internal' => '[vnútorná funkcia]: $1',
 );
 
-/** Serbian (Cyrillic script) (‪Српски (ћирилица)‬)
+/** Serbian (Cyrillic script) (‪српски (ћирилица)‬)
  * @author Михајло Анђелковић
  */
 $messages['sr-ec'] = array(
@@ -1353,7 +1353,7 @@ $messages['sr-ec'] = array(
 	'errorhandler-trace-line-internal' => '[интерна функција]: $1',
 );
 
-/** Serbian (Latin script) (‪Srpski (latinica)‬)
+/** Serbian (Latin script) (‪srpski (latinica)‬)
  * @author Michaello
  */
 $messages['sr-el'] = array(
@@ -1379,7 +1379,7 @@ $messages['sr-el'] = array(
 	'errorhandler-trace-line-internal' => '[interna funkcija]: $1',
 );
 
-/** Swedish (Svenska)
+/** Swedish (svenska)
  * @author Boivie
  * @author Najami
  */
@@ -1486,7 +1486,7 @@ $messages['tr'] = array(
 	'errorhandler-error-user-notice' => 'Kullanıcı bildirimi',
 );
 
-/** Ukrainian (Українська)
+/** Ukrainian (українська)
  * @author NickK
  * @author Prima klasy4na
  * @author Тест
@@ -1561,7 +1561,7 @@ $messages['yi'] = array(
 	'errorhandler-error-warning' => 'ווארענונג',
 );
 
-/** Simplified Chinese (‪中文(简体)‬)
+/** Simplified Chinese (‪中文（简体）‬)
  * @author Gaoxuewei
  * @author PhiLiP
  */
@@ -1590,7 +1590,7 @@ $messages['zh-hans'] = array(
 	'errorhandler-trace-line-internal' => '[内部函数]: $1',
 );
 
-/** Traditional Chinese (‪中文(繁體)‬)
+/** Traditional Chinese (‪中文（繁體）‬)
  * @author Liangent
  * @author Mark85296341
  * @author Wrightbus
