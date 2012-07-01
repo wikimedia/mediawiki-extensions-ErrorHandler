@@ -69,7 +69,7 @@ $messages['af'] = array(
 	'errorhandler-error-notice' => 'Kennisgewing',
 );
 
-/** Aragonese (Aragonés)
+/** Aragonese (aragonés)
  * @author Juanpabl
  */
 $messages['an'] = array(
@@ -154,7 +154,7 @@ $messages['az'] = array(
 	'errorhandler-error-user-error' => 'İstifadəçi xətası',
 );
 
-/** Belarusian (Taraškievica orthography) (‪Беларуская (тарашкевіца)‬)
+/** Belarusian (Taraškievica orthography) (‪беларуская (тарашкевіца)‬)
  * @author EugeneZelenko
  * @author Jim-by
  */
@@ -346,7 +346,7 @@ $messages['de'] = array(
 	'errorhandler-trace-line-internal' => '[interne Funktion]: $1',
 );
 
-/** Lower Sorbian (Dolnoserbski)
+/** Lower Sorbian (dolnoserbski)
  * @author Michawiki
  */
 $messages['dsb'] = array(
@@ -554,7 +554,7 @@ $messages['frp'] = array(
 	'errorhandler-trace-line-internal' => '[fonccion de dedens] : $1',
 );
 
-/** Galician (Galego)
+/** Galician (galego)
  * @author Toliño
  */
 $messages['gl'] = array(
@@ -655,7 +655,7 @@ $messages['he'] = array(
 	'errorhandler-trace-line-internal' => '[פונקציה פנימית]: $1',
 );
 
-/** Upper Sorbian (Hornjoserbsce)
+/** Upper Sorbian (hornjoserbsce)
  * @author Michawiki
  */
 $messages['hsb'] = array(
