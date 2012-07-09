@@ -911,6 +911,20 @@ $messages['lb'] = array(
 	'errorhandler-trace-line-internal' => '[intern Fonctioun]: $1',
 );
 
+/** Lithuanian (lietuvių)
+ * @author Eitvys200
+ */
+$messages['lt'] = array(
+	'errorhandler-errors' => 'Klaida:',
+	'errorhandler-error-warning' => 'Įspėjimas',
+	'errorhandler-error-notice' => 'Pranešimas',
+	'errorhandler-error-core-error' => 'Branduolio klaida',
+	'errorhandler-error-core-warning' => 'Branduolio perspėjimas',
+	'errorhandler-error-user-error' => 'Vartotojo klaida',
+	'errorhandler-error-user-warning' => 'Vartotojo perspėjimas',
+	'errorhandler-error-user-notice' => 'Vartotojo pastaba',
+);
+
 /** Macedonian (македонски)
  * @author Bjankuloski06
  */
