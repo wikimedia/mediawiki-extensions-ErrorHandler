@@ -961,7 +961,7 @@ $messages['ms'] = array(
 	'errorhandler-msg-text' => '$1 : $2 dalam $3 (baris $4)',
 );
 
-/** Erzya (Эрзянь)
+/** Erzya (эрзянь)
  * @author Botuzhaleny-sodamo
  */
 $messages['myv'] = array(
@@ -976,8 +976,7 @@ $messages['nah'] = array(
 	'errorhandler-trace-line' => '$1 (pāntli $2): $3',
 );
 
-/** Norwegian (bokmål)‬ (‪Norsk (bokmål)‬)
- * @author Jon Harald Søby
+/** Norwegian Bokmål (‪norsk (bokmål)‬)
  * @author Nghtwlkr
  */
 $messages['nb'] = array(
@@ -1530,7 +1529,7 @@ $messages['uk'] = array(
 	'errorhandler-trace-line-internal' => '[внутрішня функція]: $1',
 );
 
-/** Veps (Vepsän kel’)
+/** Veps (vepsän kel’)
  * @author Игорь Бродский
  */
 $messages['vep'] = array(
