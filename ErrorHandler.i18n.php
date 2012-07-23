@@ -346,6 +346,16 @@ $messages['de'] = array(
 	'errorhandler-trace-line-internal' => '[interne Funktion]: $1',
 );
 
+/** Zazaki (Zazaki)
+ * @author Erdemaslancan
+ */
+$messages['diq'] = array(
+	'errorhandler-errors' => 'Xırabi:',
+	'errorhandler-error-warning' => 'İkaz',
+	'errorhandler-error-user-error' => 'Xirabiya karberi',
+	'errorhandler-error-user-warning' => 'İkaziya karberi',
+);
+
 /** Lower Sorbian (dolnoserbski)
  * @author Michawiki
  */
