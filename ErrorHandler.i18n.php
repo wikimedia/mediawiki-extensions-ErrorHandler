@@ -473,6 +473,14 @@ $messages['eu'] = array(
 	'errorhandler-errors' => 'Erroreak:',
 );
 
+/** Persian (فارسی)
+ * @author Mjbmr
+ */
+$messages['fa'] = array(
+	'errorhandler-error-fatal' => 'خطای مخرب',
+	'errorhandler-error-warning' => 'هشدار',
+);
+
 /** Finnish (suomi)
  * @author Cimon Avaro
  * @author Crt
@@ -1320,6 +1328,16 @@ $messages['ru'] = array(
  */
 $messages['scn'] = array(
 	'errorhandler-error-warning' => 'Accura',
+);
+
+/** Sinhala (සිංහල)
+ * @author පසිඳු කාවින්ද
+ */
+$messages['si'] = array(
+	'errorhandler-errors' => 'දෝෂ:',
+	'errorhandler-error-fatal' => 'මාරක දෝෂය',
+	'errorhandler-error-warning' => 'අවවාදය',
+	'errorhandler-error-notice' => 'දැනුම්දීම',
 );
 
 /** Slovak (slovenčina)
