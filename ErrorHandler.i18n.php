@@ -845,6 +845,16 @@ $messages['ja'] = array(
 	'errorhandler-trace-line-internal' => '[内部関数]: $1',
 );
 
+/** Georgian (ქართული)
+ * @author David1010
+ */
+$messages['ka'] = array(
+	'errorhandler-errors' => 'შეცდომები:',
+	'errorhandler-error-fatal' => 'ფატალური შეცდომა',
+	'errorhandler-error-warning' => 'გაფრთხილება',
+	'errorhandler-error-user-error' => 'მომხმარებლის შეცდომა',
+);
+
 /** Khmer (ភាសាខ្មែរ)
  * @author Lovekhmer
  * @author Thearith
