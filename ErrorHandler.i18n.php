@@ -1460,13 +1460,18 @@ $messages['sv'] = array(
 );
 
 /** Tamil (தமிழ்)
+ * @author Karthi.dr
  * @author Shanmugamp7
  * @author TRYPPN
  */
 $messages['ta'] = array(
 	'errorhandler-errors' => 'பிழைகள்:',
+	'errorhandler-error-fatal' => 'மாபெரும் தவறு',
 	'errorhandler-error-warning' => 'எச்சரிக்கை',
 	'errorhandler-error-notice' => 'அறிவிப்பு',
+	'errorhandler-error-user-error' => 'பயனர் பிழை',
+	'errorhandler-error-user-warning' => 'பயனர் எச்சரிக்கை',
+	'errorhandler-error-user-notice' => 'பயனர் அறிவிப்பு',
 );
 
 /** Telugu (తెలుగు)
