@@ -1298,8 +1298,11 @@ $messages['ro'] = array(
 $messages['roa-tara'] = array(
 	'errorhandler-errors' => 'Errore:',
 	'errorhandler-error-fatal' => 'Errore putende',
+	'errorhandler-error-notice' => 'Notizie',
 	'errorhandler-msg-text' => "$1 : $2 jndr'à $3 (linèe $4)",
 	'errorhandler-msg-html' => "<b>$1</b> : <i>$2</i> jndr'à <b>$3</b> (linèe <b>$4</b>)",
+	'errorhandler-trace' => 'tracce:',
+	'errorhandler-trace-line' => '$1 (linèe $2): $3',
 );
 
 /** Russian (русский)
@@ -1463,6 +1466,7 @@ $messages['sv'] = array(
  * @author Karthi.dr
  * @author Shanmugamp7
  * @author TRYPPN
+ * @author மதனாஹரன்
  */
 $messages['ta'] = array(
 	'errorhandler-errors' => 'பிழைகள்:',
@@ -1472,6 +1476,7 @@ $messages['ta'] = array(
 	'errorhandler-error-user-error' => 'பயனர் பிழை',
 	'errorhandler-error-user-warning' => 'பயனர் எச்சரிக்கை',
 	'errorhandler-error-user-notice' => 'பயனர் அறிவிப்பு',
+	'errorhandler-trace-line' => '$1 (வரி $2): $3',
 );
 
 /** Telugu (తెలుగు)
