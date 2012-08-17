@@ -1580,6 +1580,17 @@ $messages['uk'] = array(
 	'errorhandler-trace-line-internal' => '[внутрішня функція]: $1',
 );
 
+/** Urdu (اردو)
+ * @author පසිඳු කාවින්ද
+ */
+$messages['ur'] = array(
+	'errorhandler-errors' => 'غلطیاں:',
+	'errorhandler-error-fatal' => 'مہلک غلطی',
+	'errorhandler-error-warning' => 'انتباہ',
+	'errorhandler-error-parse' => 'تجزیہ کار غلطی',
+	'errorhandler-error-notice' => 'نوٹس',
+);
+
 /** Veps (vepsän kel’)
  * @author Игорь Бродский
  */
