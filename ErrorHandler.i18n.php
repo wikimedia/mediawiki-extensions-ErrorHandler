@@ -182,7 +182,7 @@ $messages['az'] = array(
 	'errorhandler-error-user-error' => 'İstifadəçi xətası',
 );
 
-/** Belarusian (Taraškievica orthography) (‪беларуская (тарашкевіца)‬)
+/** Belarusian (Taraškievica orthography) (беларуская (тарашкевіца)‎)
  * @author EugeneZelenko
  * @author Jim-by
  */
@@ -1032,7 +1032,7 @@ $messages['nah'] = array(
 	'errorhandler-trace-line' => '$1 (pāntli $2): $3',
 );
 
-/** Norwegian Bokmål (‪norsk (bokmål)‬)
+/** Norwegian Bokmål (norsk (bokmål)‎)
  * @author Nghtwlkr
  */
 $messages['nb'] = array(
@@ -1088,7 +1088,7 @@ $messages['nl'] = array(
 	'errorhandler-trace-line-internal' => '[interne functie]: $1',
 );
 
-/** Norwegian Nynorsk (‪norsk (nynorsk)‬)
+/** Norwegian Nynorsk (norsk (nynorsk)‎)
  * @author Harald Khan
  * @author Njardarlogar
  */
@@ -1409,7 +1409,7 @@ $messages['sk'] = array(
 	'errorhandler-trace-line-internal' => '[vnútorná funkcia]: $1',
 );
 
-/** Serbian (Cyrillic script) (‪српски (ћирилица)‬)
+/** Serbian (Cyrillic script) (српски (ћирилица)‎)
  * @author Михајло Анђелковић
  */
 $messages['sr-ec'] = array(
@@ -1435,7 +1435,7 @@ $messages['sr-ec'] = array(
 	'errorhandler-trace-line-internal' => '[интерна функција]: $1',
 );
 
-/** Serbian (Latin script) (‪srpski (latinica)‬)
+/** Serbian (Latin script) (srpski (latinica)‎)
  * @author Michaello
  */
 $messages['sr-el'] = array(
@@ -1664,7 +1664,7 @@ $messages['yi'] = array(
 	'errorhandler-error-warning' => 'ווארענונג',
 );
 
-/** Simplified Chinese (‪中文（简体）‬)
+/** Simplified Chinese (中文（简体）‎)
  * @author Gaoxuewei
  * @author PhiLiP
  */
@@ -1693,7 +1693,7 @@ $messages['zh-hans'] = array(
 	'errorhandler-trace-line-internal' => '[内部函数]: $1',
 );
 
-/** Traditional Chinese (‪中文（繁體）‬)
+/** Traditional Chinese (中文（繁體）‎)
  * @author Liangent
  * @author Mark85296341
  * @author Wrightbus
