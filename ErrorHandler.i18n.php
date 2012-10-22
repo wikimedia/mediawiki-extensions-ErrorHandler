@@ -327,7 +327,7 @@ $messages['cs'] = array(
 	'errorhandler-errors' => 'Chyby:',
 	'errorhandler-error-fatal' => 'Kritická chyba',
 	'errorhandler-error-warning' => 'Upozornění',
-	'errorhandler-error-parse' => 'Chyba syntaktické analýzy',
+	'errorhandler-error-parse' => 'Chyba syntaktické analýzy', # Fuzzy
 	'errorhandler-error-notice' => 'Oznámení',
 	'errorhandler-error-deprecated' => 'Zastaralé',
 	'errorhandler-error-core-error' => 'Chyba jádra',
@@ -336,11 +336,11 @@ $messages['cs'] = array(
 	'errorhandler-error-compile-warning' => 'Upozornění kompilace',
 	'errorhandler-error-user-error' => 'Chyba uživatele',
 	'errorhandler-error-user-warning' => 'Upozornění uživatele',
-	'errorhandler-error-user-notice' => 'Oznámení uživatele',
-	'errorhandler-error-user-deprecated' => 'Uživatel je zastaralý',
+	'errorhandler-error-user-notice' => 'Oznámení uživatele', # Fuzzy
+	'errorhandler-error-user-deprecated' => 'Uživatel je zastaralý', # Fuzzy
 	'errorhandler-error-strict' => 'Přísné standardy',
 	'errorhandler-error-recoverable' => 'Zachytitelná kritická chyba',
-	'errorhandler-trace' => 'trasování:',
+	'errorhandler-trace' => 'trasování:', # Fuzzy
 	'errorhandler-trace-line-internal' => '[vnitřní funkce]: $1',
 );
 
@@ -1722,4 +1722,3 @@ $messages['zh-hant'] = array(
 	'errorhandler-trace-line' => '$1（第$2行）：$3',
 	'errorhandler-trace-line-internal' => '[內部函數]：$1',
 );
-
