@@ -503,10 +503,14 @@ $messages['eu'] = array(
 
 /** Persian (فارسی)
  * @author Mjbmr
+ * @author پاناروما
  */
 $messages['fa'] = array(
+	'errorhandler-errors' => 'خطاها',
 	'errorhandler-error-fatal' => 'خطای مخرب',
 	'errorhandler-error-warning' => 'هشدار',
+	'errorhandler-error-notice' => 'توجه',
+	'errorhandler-error-deprecated' => 'توصیه',
 );
 
 /** Finnish (suomi)
