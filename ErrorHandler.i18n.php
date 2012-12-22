@@ -494,6 +494,15 @@ $messages['es'] = array(
 	'errorhandler-trace-line-internal' => '[función interna]: $1',
 );
 
+/** Estonian (eesti)
+ * @author Avjoska
+ */
+$messages['et'] = array(
+	'errorhandler-errors' => 'Vead:',
+	'errorhandler-error-warning' => 'Hoiatus',
+	'errorhandler-error-user-error' => 'Kasutaja viga',
+);
+
 /** Basque (euskara)
  * @author Kobazulo
  */
@@ -509,8 +518,17 @@ $messages['fa'] = array(
 	'errorhandler-errors' => 'خطاها',
 	'errorhandler-error-fatal' => 'خطای مخرب',
 	'errorhandler-error-warning' => 'هشدار',
+	'errorhandler-error-parse' => 'خطای تجزیه‌گر',
 	'errorhandler-error-notice' => 'توجه',
 	'errorhandler-error-deprecated' => 'توصیه',
+	'errorhandler-error-core-error' => 'خطای هسته',
+	'errorhandler-error-core-warning' => 'هشدار هسته',
+	'errorhandler-error-compile-error' => 'خطای کامپایل',
+	'errorhandler-error-compile-warning' => 'هشدار کامپایل',
+	'errorhandler-error-user-error' => 'خطای کاربر',
+	'errorhandler-error-user-warning' => 'هشدار کاربر',
+	'errorhandler-error-user-notice' => 'اعلان کاربر',
+	'errorhandler-trace-line-internal' => '[تابع داخلی]: $1',
 );
 
 /** Finnish (suomi)
@@ -881,10 +899,28 @@ $messages['ja'] = array(
  * @author David1010
  */
 $messages['ka'] = array(
+	'errorhandler-desc' => 'მედიავიკის დამამუშავებლის შეცდომა',
 	'errorhandler-errors' => 'შეცდომები:',
 	'errorhandler-error-fatal' => 'ფატალური შეცდომა',
 	'errorhandler-error-warning' => 'გაფრთხილება',
+	'errorhandler-error-parse' => 'პარსერის შეცდომა',
+	'errorhandler-error-notice' => 'შეტყობინება',
+	'errorhandler-error-deprecated' => 'აკრძალულია',
+	'errorhandler-error-core-error' => 'ბირთვის შეცდომა',
+	'errorhandler-error-core-warning' => 'ბირთვის გაფრთხილება',
+	'errorhandler-error-compile-error' => 'კომპილაციის შეცდომა',
+	'errorhandler-error-compile-warning' => 'კომპილაციის შეტყობინება',
 	'errorhandler-error-user-error' => 'მომხმარებლის შეცდომა',
+	'errorhandler-error-user-warning' => 'მომხმარებლის გაფრთხილება',
+	'errorhandler-error-user-notice' => 'მომხმარებლის შეტყობინება',
+	'errorhandler-error-user-deprecated' => 'მომხმარებლის აკრძალვა',
+	'errorhandler-error-strict' => 'ზუსტი სტანდარტები',
+	'errorhandler-error-recoverable' => 'Catchable-ის ფატალური შეცდომა',
+	'errorhandler-msg-text' => '$1 : $2 $3-ში (ხაზი $4)',
+	'errorhandler-msg-html' => '<b>$1</b> : <i>$2</i> <b>$3</b>-ში (ხაზი <b>$4</b>)',
+	'errorhandler-trace' => 'კვალი:',
+	'errorhandler-trace-line' => '$1 (ხაზი $2): $3',
+	'errorhandler-trace-line-internal' => '[შიდა ფუნქცია]: $1',
 );
 
 /** Khmer (ភាសាខ្មែរ)
