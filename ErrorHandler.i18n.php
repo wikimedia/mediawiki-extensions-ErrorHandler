@@ -344,6 +344,13 @@ $messages['cs'] = array(
 	'errorhandler-trace-line-internal' => '[vnitřní funkce]: $1',
 );
 
+/** Danish (dansk)
+ * @author Tjernobyl
+ */
+$messages['da'] = array(
+	'errorhandler-errors' => 'Fejl:',
+);
+
 /** German (Deutsch)
  * @author ChrisiPK
  * @author Leithian
@@ -1057,6 +1064,17 @@ $messages['ms'] = array(
 	'errorhandler-msg-text' => '$1 : $2 dalam $3 (baris $4)',
 );
 
+/** Maltese (Malti)
+ * @author Chrisportelli
+ */
+$messages['mt'] = array(
+	'errorhandler-errors' => 'Żbalji:',
+	'errorhandler-error-fatal' => 'Żball fatali',
+	'errorhandler-error-warning' => 'Twissija',
+	'errorhandler-error-notice' => 'Avviż',
+	'errorhandler-trace' => 'traċċa:',
+);
+
 /** Erzya (эрзянь)
  * @author Botuzhaleny-sodamo
  */
@@ -1419,6 +1437,11 @@ $messages['si'] = array(
 	'errorhandler-error-fatal' => 'මාරක දෝෂය',
 	'errorhandler-error-warning' => 'අවවාදය',
 	'errorhandler-error-notice' => 'දැනුම්දීම',
+	'errorhandler-error-core-error' => 'මධ්‍ය දෝෂය',
+	'errorhandler-error-core-warning' => 'මධ්‍ය අවවාදය',
+	'errorhandler-error-user-error' => 'පරිශීලක දෝෂය',
+	'errorhandler-error-user-warning' => 'පරිශීලක අවවාදය',
+	'errorhandler-error-user-notice' => 'පරිශීලක නිවේදනය',
 );
 
 /** Slovak (slovenčina)
