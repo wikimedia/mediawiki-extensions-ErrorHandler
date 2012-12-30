@@ -1449,6 +1449,7 @@ $messages['si'] = array(
 	'errorhandler-error-user-notice' => 'පරිශීලක නිවේදනය',
 	'errorhandler-error-user-deprecated' => 'පරිශීලක විරුද්ධත්වය ප්‍රකාශ කර ඇත',
 	'errorhandler-error-strict' => 'යථාර්ථ ප්‍රමිති',
+	'errorhandler-error-recoverable' => 'කෑෂිතමය මාරක දෝෂය',
 	'errorhandler-msg-text' => '$1 : $2 හී $3 ($4 පේළිය)',
 	'errorhandler-msg-html' => '<b>$1</b> : <i>$2</i> හී <b>$3</b> (පේළිය <b>$4</b>)',
 	'errorhandler-trace' => 'අනුරේඛනය:',
