@@ -1060,7 +1060,13 @@ $messages['mk'] = array(
  * @author Anakmalaysia
  */
 $messages['ms'] = array(
+	'errorhandler-desc' => 'Pengelola ralat untuk MediaWiki',
 	'errorhandler-errors' => 'Ralat:',
+	'errorhandler-error-fatal' => 'Ralat mati',
+	'errorhandler-error-warning' => 'Amaran',
+	'errorhandler-error-parse' => 'Ralat penghurai',
+	'errorhandler-error-notice' => 'Pemberitahuan',
+	'errorhandler-error-deprecated' => 'Lapuk',
 	'errorhandler-msg-text' => '$1 : $2 dalam $3 (baris $4)',
 );
 
