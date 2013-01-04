@@ -1067,7 +1067,11 @@ $messages['ms'] = array(
 	'errorhandler-error-parse' => 'Ralat penghurai',
 	'errorhandler-error-notice' => 'Pemberitahuan',
 	'errorhandler-error-deprecated' => 'Lapuk',
+	'errorhandler-error-core-error' => 'Ralat teras',
+	'errorhandler-error-core-warning' => 'Amaran teras',
 	'errorhandler-msg-text' => '$1 : $2 dalam $3 (baris $4)',
+	'errorhandler-trace' => 'jejak:',
+	'errorhandler-trace-line' => '$1 (baris $2): $3',
 );
 
 /** Maltese (Malti)
