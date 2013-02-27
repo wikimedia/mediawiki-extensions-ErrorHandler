@@ -41,6 +41,7 @@ $messages['en'] = array(
  * @author Fryed-peach
  * @author IAlex
  * @author Purodha
+ * @author Shirayuki
  */
 $messages['qqq'] = array(
 	'errorhandler-desc' => 'Extension description displayed on [[Special:Version]].',
@@ -54,10 +55,12 @@ $messages['qqq'] = array(
 *$2 - error message
 *$3 - filename
 *$4 - line number',
-	'errorhandler-trace-line' => '*$1: filename
-*$2: line number
-*$3: function name',
-	'errorhandler-trace-line-internal' => '* $1: function name',
+	'errorhandler-trace-line' => 'Parameters:
+* $1 - filename
+* $2 - line number
+* $3 - function name',
+	'errorhandler-trace-line-internal' => 'Parameters:
+* $1 - function name',
 );
 
 /** Afrikaans (Afrikaans)
