@@ -47,6 +47,7 @@ $messages['qqq'] = array(
 	'errorhandler-desc' => 'Extension description displayed on [[Special:Version]].',
 	'errorhandler-errors' => '{{Identical|Error}}',
 	'errorhandler-error-warning' => '{{Identical|Warning}}',
+	'errorhandler-error-deprecated' => '{{Identical|Deprecated}}',
 	'errorhandler-msg-text' => '*$1 - error name
 *$2 - error message
 *$3 - filename
