@@ -45,9 +45,70 @@ $messages['en'] = array(
  */
 $messages['qqq'] = array(
 	'errorhandler-desc' => 'Extension description displayed on [[Special:Version]].',
-	'errorhandler-errors' => '{{Identical|Error}}',
-	'errorhandler-error-warning' => '{{Identical|Warning}}',
-	'errorhandler-error-deprecated' => '{{Identical|Deprecated}}',
+	'errorhandler-errors' => 'This message is followed by list of the errors.
+{{Identical|Error}}',
+	'errorhandler-error-fatal' => 'Used as error message in list of the error messages.
+
+The label for the list is {{msg-mw|Errorhandler-errors}}.
+{{Related|Errorhandler-error}}',
+	'errorhandler-error-warning' => 'Used as error message in list of the error messages.
+
+The label for the list is {{msg-mw|Errorhandler-errors}}.
+{{Related|Errorhandler-error}}
+{{Identical|Warning}}',
+	'errorhandler-error-parse' => 'Used as error message in list of the error messages.
+
+The label for the list is {{msg-mw|Errorhandler-errors}}.
+{{Related|Errorhandler-error}}',
+	'errorhandler-error-notice' => 'Used as error message in list of the error messages.
+
+The label for the list is {{msg-mw|Errorhandler-errors}}.
+{{Related|Errorhandler-error}}',
+	'errorhandler-error-deprecated' => 'Used as error message in list of the error messages.
+
+The label for the list is {{msg-mw|Errorhandler-errors}}.
+{{Related|Errorhandler-error}}
+{{Identical|Deprecated}}',
+	'errorhandler-error-core-error' => 'Used as error message in list of the error messages.
+
+The label for the list is {{msg-mw|Errorhandler-errors}}.
+{{Related|Errorhandler-error}}',
+	'errorhandler-error-core-warning' => 'Used as error message in list of the error messages.
+
+The label for the list is {{msg-mw|Errorhandler-errors}}.
+{{Related|Errorhandler-error}}',
+	'errorhandler-error-compile-error' => 'Used as error message in list of the error messages.
+
+The label for the list is {{msg-mw|Errorhandler-errors}}.
+{{Related|Errorhandler-error}}',
+	'errorhandler-error-compile-warning' => 'Used as error message in list of the error messages.
+
+The label for the list is {{msg-mw|Errorhandler-errors}}.
+{{Related|Errorhandler-error}}',
+	'errorhandler-error-user-error' => 'Used as error message in list of the error messages.
+
+The label for the list is {{msg-mw|Errorhandler-errors}}.
+{{Related|Errorhandler-error}}',
+	'errorhandler-error-user-warning' => 'Used as error message in list of the error messages.
+
+The label for the list is {{msg-mw|Errorhandler-errors}}.
+{{Related|Errorhandler-error}}',
+	'errorhandler-error-user-notice' => 'Used as error message in list of the error messages.
+
+The label for the list is {{msg-mw|Errorhandler-errors}}.
+{{Related|Errorhandler-error}}',
+	'errorhandler-error-user-deprecated' => 'Used as error message in list of the error messages.
+
+The label for the list is {{msg-mw|Errorhandler-errors}}.
+{{Related|Errorhandler-error}}',
+	'errorhandler-error-strict' => 'Used as error message in list of the error messages.
+
+The label for the list is {{msg-mw|Errorhandler-errors}}.
+{{Related|Errorhandler-error}}',
+	'errorhandler-error-recoverable' => 'Used as error message in list of the error messages.
+
+The label for the list is {{msg-mw|Errorhandler-errors}}.
+{{Related|Errorhandler-error}}',
 	'errorhandler-msg-text' => '*$1 - error name
 *$2 - error message
 *$3 - filename
@@ -56,6 +117,7 @@ $messages['qqq'] = array(
 *$2 - error message
 *$3 - filename
 *$4 - line number',
+	'errorhandler-trace' => 'This message is followed by list of the traces (ordered list).',
 	'errorhandler-trace-line' => 'Parameters:
 * $1 - filename
 * $2 - line number
