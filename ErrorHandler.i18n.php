@@ -1412,6 +1412,7 @@ $messages['pt'] = array(
 
 /** Brazilian Portuguese (português do Brasil)
  * @author Eduardo.mps
+ * @author Luckas
  */
 $messages['pt-br'] = array(
 	'errorhandler-desc' => 'Tratador de erros do MediaWiki',
@@ -1425,9 +1426,9 @@ $messages['pt-br'] = array(
 	'errorhandler-error-core-warning' => 'Aviso do núcleo',
 	'errorhandler-error-compile-error' => 'Erro de compilação',
 	'errorhandler-error-compile-warning' => 'Aviso de compilação',
-	'errorhandler-error-user-error' => 'Erro de utilizador',
-	'errorhandler-error-user-warning' => 'Aviso de utilizador',
-	'errorhandler-error-user-notice' => 'Nota de utilizador',
+	'errorhandler-error-user-error' => 'Erro de usuário',
+	'errorhandler-error-user-warning' => 'Aviso de usuário',
+	'errorhandler-error-user-notice' => 'Nota de usuário',
 	'errorhandler-error-user-deprecated' => 'Obsoleto por utilizador',
 	'errorhandler-error-strict' => 'Padrões estritos',
 	'errorhandler-error-recoverable' => 'Erro fatal tratável',
