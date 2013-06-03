@@ -1176,7 +1176,7 @@ $messages['nah'] = array(
 	'errorhandler-trace-line' => '$1 (pāntli $2): $3',
 );
 
-/** Norwegian Bokmål (norsk (bokmål)‎)
+/** Norwegian Bokmål (norsk bokmål)
  * @author Nghtwlkr
  */
 $messages['nb'] = array(
@@ -1232,7 +1232,7 @@ $messages['nl'] = array(
 	'errorhandler-trace-line-internal' => '[interne functie]: $1',
 );
 
-/** Norwegian Nynorsk (norsk (nynorsk)‎)
+/** Norwegian Nynorsk (norsk nynorsk)
  * @author Harald Khan
  * @author Njardarlogar
  */
@@ -1289,7 +1289,7 @@ $messages['oc'] = array(
 	'errorhandler-trace-line-internal' => '[foncion intèrna] : $1',
 );
 
-/** Oriya (ଓଡ଼ିଆ)
+/** Oriya (ଓଡ଼ିଆ)
  * @author Jnanaranjan Sahu
  */
 $messages['or'] = array(
