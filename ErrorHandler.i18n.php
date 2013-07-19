@@ -410,6 +410,13 @@ $messages['cs'] = array(
 	'errorhandler-trace-line-internal' => '[vnitřní funkce]: $1',
 );
 
+/** Church Slavic (словѣ́ньскъ / ⰔⰎⰑⰂⰡⰐⰠⰔⰍⰟ)
+ * @author ОйЛ
+ */
+$messages['cu'] = array(
+	'errorhandler-errors' => 'блаꙁнꙑ :',
+);
+
 /** Danish (dansk)
  * @author Tjernobyl
  */
