@@ -117,7 +117,8 @@ The label for the list is {{msg-mw|Errorhandler-errors}}.
 *$2 - error message
 *$3 - filename
 *$4 - line number',
-	'errorhandler-trace' => 'This message is followed by list of the traces (ordered list).',
+	'errorhandler-trace' => 'This message is followed by list of the traces (ordered list).
+{{Identical|Trace}}',
 	'errorhandler-trace-line' => 'Parameters:
 * $1 - filename
 * $2 - line number
