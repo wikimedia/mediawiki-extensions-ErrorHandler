@@ -109,14 +109,20 @@ The label for the list is {{msg-mw|Errorhandler-errors}}.
 
 The label for the list is {{msg-mw|Errorhandler-errors}}.
 {{Related|Errorhandler-error}}',
-	'errorhandler-msg-text' => '*$1 - error name
-*$2 - error message
-*$3 - filename
-*$4 - line number',
-	'errorhandler-msg-html' => '*$1 - error name
-*$2 - error message
-*$3 - filename
-*$4 - line number',
+	'errorhandler-msg-text' => 'Used as error message. Parameters:
+* $1 - error name
+* $2 - error message
+* $3 - filename
+* $4 - line number
+See also:
+* {{msg-mw|Errorhandler-msg-html}}',
+	'errorhandler-msg-html' => 'Used as error message. Parameters:
+* $1 - error name
+* $2 - error message
+* $3 - filename
+* $4 - line number
+See also:
+* {{msg-mw|Errorhandler-msg-text}}',
 	'errorhandler-trace' => 'This message is followed by list of the traces (ordered list).
 {{Identical|Trace}}',
 	'errorhandler-trace-line' => 'Parameters:
