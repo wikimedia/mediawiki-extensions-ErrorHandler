@@ -1068,6 +1068,7 @@ $messages['la'] = array(
 /** Luxembourgish (Lëtzebuergesch)
  * @author Les Meloures
  * @author Robby
+ * @author Soued031
  */
 $messages['lb'] = array(
 	'errorhandler-desc' => 'Feelerbehandlung fir MediaWiki',
@@ -1091,7 +1092,7 @@ $messages['lb'] = array(
 	'errorhandler-msg-html' => '<b>$1</b> : <i>$2</i> a(n) <b>$3</b> (Linn <b>$4</b>)',
 	'errorhandler-trace' => 'Spuer:',
 	'errorhandler-trace-line' => '$1 (Linn $2): $3',
-	'errorhandler-trace-line-internal' => '[intern Fonctioun]: $1',
+	'errorhandler-trace-line-internal' => '[intern Funktioun]: $1',
 );
 
 /** Lithuanian (lietuvių)
