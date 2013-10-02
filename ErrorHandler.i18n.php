@@ -1392,8 +1392,8 @@ $messages['pnt'] = array(
  */
 $messages['ps'] = array(
 	'errorhandler-errors' => 'تېروتنې:',
-	'errorhandler-error-warning' => 'ګواښنه',
-	'errorhandler-error-user-warning' => 'د کارن ګواښنه',
+	'errorhandler-error-warning' => 'گواښنه',
+	'errorhandler-error-user-warning' => 'د کارن گواښنه',
 );
 
 /** Portuguese (português)
