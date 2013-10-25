@@ -1028,6 +1028,26 @@ $messages['kn'] = array(
 	'errorhandler-error-warning' => 'ಎಚ್ಚರಿಕೆ',
 );
 
+/** Korean (한국어)
+ * @author Hym411
+ */
+$messages['ko'] = array(
+	'errorhandler-desc' => '미디어위키 오류 처리기',
+	'errorhandler-errors' => '오류:',
+	'errorhandler-error-fatal' => '치명적인 오류',
+	'errorhandler-error-warning' => '경고',
+	'errorhandler-error-parse' => '파서 오류',
+	'errorhandler-error-notice' => '알림',
+	'errorhandler-error-core-error' => '코드 오류',
+	'errorhandler-error-core-warning' => '코어 경고',
+	'errorhandler-error-compile-error' => '컴파일 오류',
+	'errorhandler-error-compile-warning' => '컴파일 경고',
+	'errorhandler-error-user-error' => '사용자 오류',
+	'errorhandler-error-user-warning' => '사용자 경고',
+	'errorhandler-error-user-notice' => '사용자 알림',
+	'errorhandler-error-strict' => '엄격한 기준',
+);
+
 /** Colognian (Ripoarisch)
  * @author Purodha
  */
