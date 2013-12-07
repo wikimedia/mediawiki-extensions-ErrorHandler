@@ -392,7 +392,7 @@ $messages['ca'] = array(
 	'errorhandler-error-user-error' => "Error d'usuari",
 );
 
-/** Czech (česky)
+/** Czech (čeština)
  * @author Jkjk
  */
 $messages['cs'] = array(
@@ -417,7 +417,7 @@ $messages['cs'] = array(
 	'errorhandler-trace-line-internal' => '[vnitřní funkce]: $1',
 );
 
-/** Church Slavic (словѣ́ньскъ / ⰔⰎⰑⰂⰡⰐⰠⰔⰍⰟ)
+/** Church Slavic (словѣньскъ / ⰔⰎⰑⰂⰡⰐⰠⰔⰍⰟ)
  * @author ОйЛ
  */
 $messages['cu'] = array(
