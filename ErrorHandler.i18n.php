@@ -464,10 +464,12 @@ $messages['de'] = array(
 /** Zazaki (Zazaki)
  * @author Erdemaslancan
  * @author Gorizon
+ * @author Marmase
  */
 $messages['diq'] = array(
 	'errorhandler-errors' => 'Xırabi:',
 	'errorhandler-error-warning' => 'İğtar',
+	'errorhandler-error-notice' => 'Mengene',
 	'errorhandler-error-user-error' => 'Xirabiya karberi',
 	'errorhandler-error-user-warning' => 'İkaziya karberi',
 );
