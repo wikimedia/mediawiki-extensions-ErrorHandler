@@ -1033,6 +1033,7 @@ $messages['kn'] = array(
 
 /** Korean (한국어)
  * @author Hym411
+ * @author Yjs5497
  */
 $messages['ko'] = array(
 	'errorhandler-desc' => '미디어위키 오류 처리기',
@@ -1041,6 +1042,7 @@ $messages['ko'] = array(
 	'errorhandler-error-warning' => '경고',
 	'errorhandler-error-parse' => '파서 오류',
 	'errorhandler-error-notice' => '알림',
+	'errorhandler-error-deprecated' => '사용되지 않음',
 	'errorhandler-error-core-error' => '코드 오류',
 	'errorhandler-error-core-warning' => '코어 경고',
 	'errorhandler-error-compile-error' => '컴파일 오류',
@@ -1049,6 +1051,9 @@ $messages['ko'] = array(
 	'errorhandler-error-user-warning' => '사용자 경고',
 	'errorhandler-error-user-notice' => '사용자 알림',
 	'errorhandler-error-strict' => '엄격한 기준',
+	'errorhandler-trace' => '추적:',
+	'errorhandler-trace-line' => '$1($2 열): $3',
+	'errorhandler-trace-line-internal' => '[내부 기능]: $1',
 );
 
 /** Colognian (Ripoarisch)
