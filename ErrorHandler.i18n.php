@@ -394,13 +394,14 @@ $messages['ca'] = array(
 
 /** Czech (čeština)
  * @author Jkjk
+ * @author Matěj Grabovský
  */
 $messages['cs'] = array(
 	'errorhandler-desc' => 'Obsluha chyb MediaWiki',
 	'errorhandler-errors' => 'Chyby:',
 	'errorhandler-error-fatal' => 'Kritická chyba',
 	'errorhandler-error-warning' => 'Upozornění',
-	'errorhandler-error-parse' => 'Chyba syntaktické analýzy', # Fuzzy
+	'errorhandler-error-parse' => 'Chyba syntaktické analýzy',
 	'errorhandler-error-notice' => 'Oznámení',
 	'errorhandler-error-deprecated' => 'Zastaralé',
 	'errorhandler-error-core-error' => 'Chyba jádra',
@@ -413,7 +414,7 @@ $messages['cs'] = array(
 	'errorhandler-error-user-deprecated' => 'Uživatel je zastaralý', # Fuzzy
 	'errorhandler-error-strict' => 'Přísné standardy',
 	'errorhandler-error-recoverable' => 'Zachytitelná kritická chyba',
-	'errorhandler-trace' => 'trasování:', # Fuzzy
+	'errorhandler-trace' => 'trasování:',
 	'errorhandler-trace-line-internal' => '[vnitřní funkce]: $1',
 );
 
