@@ -602,10 +602,12 @@ $messages['eu'] = array(
 );
 
 /** Persian (فارسی)
+ * @author Armin1392
  * @author Mjbmr
  * @author پاناروما
  */
 $messages['fa'] = array(
+	'errorhandler-desc' => 'کنترل کننذهٔ خطا برای مدیاویکی',
 	'errorhandler-errors' => 'خطاها',
 	'errorhandler-error-fatal' => 'خطای مخرب',
 	'errorhandler-error-warning' => 'هشدار',
@@ -619,6 +621,13 @@ $messages['fa'] = array(
 	'errorhandler-error-user-error' => 'خطای کاربر',
 	'errorhandler-error-user-warning' => 'هشدار کاربر',
 	'errorhandler-error-user-notice' => 'اعلان کاربر',
+	'errorhandler-error-user-deprecated' => 'کاربر معترض',
+	'errorhandler-error-strict' => 'استانداردهای سخت',
+	'errorhandler-error-recoverable' => 'خطای مخرب قابل گرفتن',
+	'errorhandler-msg-text' => '$1 : $2 در $3 (خط $4)',
+	'errorhandler-msg-html' => '<b>$1</b> : <i>$2</i> in <b>$3</b> (خط<b>$4</b>)',
+	'errorhandler-trace' => 'ردیابی:',
+	'errorhandler-trace-line' => '$1 (خط $2): $3',
 	'errorhandler-trace-line-internal' => '[تابع داخلی]: $1',
 );
 
