@@ -1043,6 +1043,7 @@ $messages['kn'] = array(
 
 /** Korean (한국어)
  * @author Hym411
+ * @author Priviet
  * @author Yjs5497
  */
 $messages['ko'] = array(
@@ -1061,6 +1062,7 @@ $messages['ko'] = array(
 	'errorhandler-error-user-warning' => '사용자 경고',
 	'errorhandler-error-user-notice' => '사용자 알림',
 	'errorhandler-error-strict' => '엄격한 기준',
+	'errorhandler-error-recoverable' => '추적가능한 치명적 오류',
 	'errorhandler-trace' => '추적:',
 	'errorhandler-trace-line' => '$1($2 열): $3',
 	'errorhandler-trace-line-internal' => '[내부 기능]: $1',
