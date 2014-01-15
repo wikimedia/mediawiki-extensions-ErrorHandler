@@ -1061,6 +1061,7 @@ $messages['ko'] = array(
 	'errorhandler-error-user-error' => '사용자 오류',
 	'errorhandler-error-user-warning' => '사용자 경고',
 	'errorhandler-error-user-notice' => '사용자 알림',
+	'errorhandler-error-user-deprecated' => '탈퇴한 사용자',
 	'errorhandler-error-strict' => '엄격한 기준',
 	'errorhandler-error-recoverable' => '추적가능한 치명적 오류',
 	'errorhandler-trace' => '추적:',
