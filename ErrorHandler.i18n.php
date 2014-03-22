@@ -1903,6 +1903,7 @@ $messages['yi'] = array(
 /** Simplified Chinese (中文（简体）‎)
  * @author Gaoxuewei
  * @author PhiLiP
+ * @author Xiaomingyan
  */
 $messages['zh-hans'] = array(
 	'errorhandler-desc' => 'MediaWiki的错误处理程序',
@@ -1924,7 +1925,7 @@ $messages['zh-hans'] = array(
 	'errorhandler-error-recoverable' => '可捕获的致命错误',
 	'errorhandler-msg-text' => '$1 : $2 在 $3 中 （第$4行）',
 	'errorhandler-msg-html' => '<b>$1</b> : <i>$2</i> 在 <b>$3</b> 中（第 <b>$4</b> 行）',
-	'errorhandler-trace' => '跟踪：',
+	'errorhandler-trace' => '轨迹：',
 	'errorhandler-trace-line' => '$1 （第$2行）: $3',
 	'errorhandler-trace-line-internal' => '[内部函数]: $1',
 );
