@@ -392,6 +392,15 @@ $messages['ca'] = array(
 	'errorhandler-error-user-error' => "Error d'usuari",
 );
 
+/** Chechen (нохчийн)
+ * @author Умар
+ */
+$messages['ce'] = array(
+	'errorhandler-error-user-error' => 'Декъашхочун гӀалат',
+	'errorhandler-error-user-warning' => 'Декъашхо дӀахьедар',
+	'errorhandler-error-user-notice' => 'Декъашхочуьнга хаам бар',
+);
+
 /** Czech (čeština)
  * @author Jkjk
  * @author Matěj Grabovský
