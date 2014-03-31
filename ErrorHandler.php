@@ -68,6 +68,7 @@ $wgErrorHandlerErrors = array();
 $wgErrorHandlerOutputDone = false;
 
 $wgHooks['BeforePageDisplay'][] = 'efErrorHandlerShowErrors';
+$wgMessagesDirs['ErrorHandler'] = __DIR__ . '/i18n';
 $wgExtensionMessagesFiles['ErrorHandler'] = dirname( __FILE__ ) . '/ErrorHandler.i18n.php';
 
 /**
