@@ -1,9 +1,9 @@
 {
-    "@metadata": {
-        "authors": [
-            "Malafaya"
-        ]
-    },
-    "errorhandler-errors": "Pöls:",
-    "errorhandler-error-warning": "Nuned"
+	"@metadata": {
+		"authors": [
+			"Malafaya"
+		]
+	},
+	"errorhandler-errors": "Pöls:",
+	"errorhandler-error-warning": "Nuned"
 }

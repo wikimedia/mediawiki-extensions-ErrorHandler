@@ -1,14 +1,14 @@
 {
-    "@metadata": {
-        "authors": [
-            "Erdemaslancan",
-            "Gorizon",
-            "Marmase"
-        ]
-    },
-    "errorhandler-errors": "Xırabi:",
-    "errorhandler-error-warning": "İğtar",
-    "errorhandler-error-notice": "Mengene",
-    "errorhandler-error-user-error": "Xirabiya karberi",
-    "errorhandler-error-user-warning": "İkaziya karberi"
+	"@metadata": {
+		"authors": [
+			"Erdemaslancan",
+			"Gorizon",
+			"Marmase"
+		]
+	},
+	"errorhandler-errors": "Xırabi:",
+	"errorhandler-error-warning": "İğtar",
+	"errorhandler-error-notice": "Mengene",
+	"errorhandler-error-user-error": "Xirabiya karberi",
+	"errorhandler-error-user-warning": "İkaziya karberi"
 }

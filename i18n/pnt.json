@@ -1,8 +1,8 @@
 {
-    "@metadata": {
-        "authors": [
-            "Omnipaedista"
-        ]
-    },
-    "errorhandler-trace-line": "$1 (γραμμήν $2): $3"
+	"@metadata": {
+		"authors": [
+			"Omnipaedista"
+		]
+	},
+	"errorhandler-trace-line": "$1 (γραμμήν $2): $3"
 }
