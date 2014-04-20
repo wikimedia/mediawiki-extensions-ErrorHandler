@@ -3,11 +3,12 @@
 		"authors": [
 			"Erdemaslancan",
 			"Gorizon",
-			"Marmase"
+			"Marmase",
+			"Mirzali"
 		]
 	},
 	"errorhandler-errors": "Xırabi:",
-	"errorhandler-error-warning": "İğtar",
+	"errorhandler-error-warning": "İqaz",
 	"errorhandler-error-notice": "Mengene",
 	"errorhandler-error-user-error": "Xirabiya karberi",
 	"errorhandler-error-user-warning": "İkaziya karberi"
