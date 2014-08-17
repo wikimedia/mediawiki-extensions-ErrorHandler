@@ -13,7 +13,7 @@
 	"errorhandler-error-fatal": "Used as error message in list of the error messages.\n\nThe label for the list is {{msg-mw|Errorhandler-errors}}.\n{{Related|Errorhandler-error}}",
 	"errorhandler-error-warning": "Used as error message in list of the error messages.\n\nThe label for the list is {{msg-mw|Errorhandler-errors}}.\n{{Related|Errorhandler-error}}\n{{Identical|Warning}}",
 	"errorhandler-error-parse": "Used as error message in list of the error messages.\n\nThe label for the list is {{msg-mw|Errorhandler-errors}}.\n{{Related|Errorhandler-error}}",
-	"errorhandler-error-notice": "Used as error message in list of the error messages.\n\nThe label for the list is {{msg-mw|Errorhandler-errors}}.\n{{Related|Errorhandler-error}}",
+	"errorhandler-error-notice": "Used as error message in list of the error messages.\n\nThe label for the list is {{msg-mw|Errorhandler-errors}}.\n{{Related|Errorhandler-error}}\n{{Identical|Notice}}",
 	"errorhandler-error-deprecated": "Used as error message in list of the error messages.\n\nThe label for the list is {{msg-mw|Errorhandler-errors}}.\n{{Related|Errorhandler-error}}\n{{Identical|Deprecated}}",
 	"errorhandler-error-core-error": "Used as error message in list of the error messages.\n\nThe label for the list is {{msg-mw|Errorhandler-errors}}.\n{{Related|Errorhandler-error}}",
 	"errorhandler-error-core-warning": "Used as error message in list of the error messages.\n\nThe label for the list is {{msg-mw|Errorhandler-errors}}.\n{{Related|Errorhandler-error}}",
