@@ -11,7 +11,7 @@
 	"errorhandler-error-parse": "Грешка во расчленувачот",
 	"errorhandler-error-notice": "Напомена",
 	"errorhandler-error-deprecated": "Забрането",
-	"errorhandler-error-core-error": "Јадрена грешка",
+	"errorhandler-error-core-error": "Грешка во јадрото",
 	"errorhandler-error-core-warning": "Јадрено предупредување",
 	"errorhandler-error-compile-error": "Грешка во компилацијата",
 	"errorhandler-error-compile-warning": "Предупредување од компилацијата",
