@@ -3,7 +3,8 @@
 		"authors": [
 			"Liangent",
 			"Mark85296341",
-			"Wrightbus"
+			"Wrightbus",
+			"LNDDYL"
 		]
 	},
 	"errorhandler-desc": "MediaWiki的錯誤處理程序",
@@ -19,7 +20,7 @@
 	"errorhandler-error-compile-warning": "編譯警告",
 	"errorhandler-error-user-error": "用戶錯誤",
 	"errorhandler-error-user-warning": "用戶警告",
-	"errorhandler-error-user-notice": "用戶提示",
+	"errorhandler-error-user-notice": "使用者提示",
 	"errorhandler-error-user-deprecated": "用戶不推薦使用",
 	"errorhandler-error-strict": "嚴格的標準",
 	"errorhandler-error-recoverable": "可捕獲的致命錯誤",
