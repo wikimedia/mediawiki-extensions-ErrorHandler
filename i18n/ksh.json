@@ -18,7 +18,7 @@
 	"errorhandler-error-user-error": "Fum Projammaacher jemäldte Fähler",
 	"errorhandler-error-user-warning": "Warnung fum Projammaacher",
 	"errorhandler-error-user-notice": "Herwieß fum Projammaacher",
-	"errorhandler-error-user-deprecated": "Fum Projammaacher nimmieh jewollt",
+	"errorhandler-error-user-deprecated": "Fum Projammaacher nimmih jewollt",
 	"errorhandler-error-strict": "Verstüß jäje de janz akoraate Shtandat",
 	"errorhandler-error-recoverable": "Ene schlemme Fähler, dä opjevange wäde kann",
 	"errorhandler-msg-text": "$1 : $2 en $3, op de Reih $4.",
