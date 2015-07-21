@@ -2,22 +2,23 @@
 	"@metadata": {
 		"authors": [
 			"Antur",
-			"Sanbec"
+			"Sanbec",
+			"Macofe"
 		]
 	},
 	"errorhandler-desc": "Error operativo de MediaWiki",
 	"errorhandler-errors": "Errores:",
 	"errorhandler-error-fatal": "Error grave",
-	"errorhandler-error-warning": "Cuidado",
+	"errorhandler-error-warning": "Advertencia",
 	"errorhandler-error-parse": "Error sintáctico",
 	"errorhandler-error-notice": "Aviso",
 	"errorhandler-error-deprecated": "En desuso",
 	"errorhandler-error-core-error": "Error de núcleo",
-	"errorhandler-error-core-warning": "Alerta de núcleo",
+	"errorhandler-error-core-warning": "Advertencia de núcleo",
 	"errorhandler-error-compile-error": "Error de compilación",
-	"errorhandler-error-compile-warning": "Alerta de compilación",
+	"errorhandler-error-compile-warning": "Advertencia de compilación",
 	"errorhandler-error-user-error": "Error de usuario",
-	"errorhandler-error-user-warning": "Alerta de usuario",
+	"errorhandler-error-user-warning": "Advertencia de usuario",
 	"errorhandler-error-user-notice": "Aviso de usuario",
 	"errorhandler-error-user-deprecated": "Usuario en desuso",
 	"errorhandler-error-strict": "Estándar estricto",
