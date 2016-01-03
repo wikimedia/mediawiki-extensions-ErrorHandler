@@ -208,14 +208,10 @@ function efErrorHandler( $errType, $errMsg, $errFile, $errLine, $errVars ){
 function efErrorHandlerGetMessage(){
 	static $messages = false;
 	$args = func_get_args();
-	if( function_exists( 'wfMsgExt' ) ){
+	if( function_exists( 'wfMessage' ) ){
 		global $wgTitle;
 		$msg = array_shift( $args );
-		$opts = array( 'replaceafter' );
-		if( $wgTitle instanceof Title )
-			$opts[] = 'parseinline';
-		$callbackArgs = array_merge( array( $msg, $opts ), $args );
-		return call_user_func_array( 'wfMsgExt', $callbackArgs );
+		return wfMessage( $msg )->rawParams( $args )->parse();
 	} else {
 		if( !is_array( $messages ) )
 			require_once( dirname( __FILE__ ) . '/ErrorHandler.i18n.php' );
