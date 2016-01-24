@@ -68,8 +68,8 @@ $wgErrorHandlerErrors = array();
 $wgErrorHandlerOutputDone = false;
 
 $wgHooks['BeforePageDisplay'][] = 'efErrorHandlerShowErrors';
+
 $wgMessagesDirs['ErrorHandler'] = __DIR__ . '/i18n';
-$wgExtensionMessagesFiles['ErrorHandler'] = dirname( __FILE__ ) . '/ErrorHandler.i18n.php';
 
 /**
  * Custom error handler
@@ -212,10 +212,11 @@ function efErrorHandlerGetMessage(){
 		$msg = array_shift( $args );
 		return wfMessage( $msg )->rawParams( $args )->parse();
 	} else {
-		if( !is_array( $messages ) )
-			require_once( dirname( __FILE__ ) . '/ErrorHandler.i18n.php' );
+		if( !is_array( $messages ) ) {
+			$messages = json_decode( readfile( __DIR__ . '/i18n/en.json' ), true);
+		}
 		$msg = array_shift( $args );
-		$message = $messages['en'][$msg];
+		$message = $messages[$msg];
 		$replacementKeys = array();
 		foreach( $args as $n => $param ) {
 			$replacementKeys['$' . ($n + 1)] = $param;
