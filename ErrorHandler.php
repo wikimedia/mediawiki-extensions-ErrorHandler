@@ -209,7 +209,6 @@ function efErrorHandlerGetMessage(){
 	static $messages = false;
 	$args = func_get_args();
 	if( function_exists( 'wfMessage' ) ){
-		global $wgTitle;
 		$msg = array_shift( $args );
 		return wfMessage( $msg )->rawParams( $args )->parse();
 	} else {
