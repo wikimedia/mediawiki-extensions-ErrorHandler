@@ -5,6 +5,7 @@
 		]
 	},
 	"errorhandler-errors": "Klaida:",
+	"errorhandler-error-fatal": "Kritinė klaida",
 	"errorhandler-error-warning": "Įspėjimas",
 	"errorhandler-error-notice": "Pranešimas",
 	"errorhandler-error-core-error": "Branduolio klaida",
