@@ -5,10 +5,11 @@
 			"Fryed-peach",
 			"IAlex",
 			"Purodha",
-			"Shirayuki"
+			"Shirayuki",
+			"Umherirrender"
 		]
 	},
-	"errorhandler-desc": "Extension description displayed on [[Special:Version]].",
+	"errorhandler-desc": "{{desc|name=ErrorHandler|url=https://www.mediawiki.org/wiki/Extension:ErrorHandler}}",
 	"errorhandler-errors": "This message is followed by list of the errors.\n{{Identical|Error}}",
 	"errorhandler-error-fatal": "Used as error message in list of the error messages.\n\nThe label for the list is {{msg-mw|Errorhandler-errors}}.\n{{Related|Errorhandler-error}}",
 	"errorhandler-error-warning": "Used as error message in list of the error messages.\n\nThe label for the list is {{msg-mw|Errorhandler-errors}}.\n{{Related|Errorhandler-error}}\n{{Identical|Warning}}",
