@@ -9,7 +9,7 @@
 	"errorhandler-errors": "Erros:",
 	"errorhandler-error-fatal": "Erro fatal",
 	"errorhandler-error-warning": "Aviso",
-	"errorhandler-error-parse": "Erro do analisador sintáctico",
+	"errorhandler-error-parse": "Erro do analisador sintático",
 	"errorhandler-error-notice": "Nota",
 	"errorhandler-error-deprecated": "Obsoleto",
 	"errorhandler-error-core-error": "Erro do núcleo",
