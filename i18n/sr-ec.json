@@ -1,10 +1,11 @@
 {
 	"@metadata": {
 		"authors": [
-			"Михајло Анђелковић"
+			"Михајло Анђелковић",
+			"BadDog"
 		]
 	},
-	"errorhandler-desc": "Прихватач грешака за МедијаВики",
+	"errorhandler-desc": "Управљач грешака за Медијавики",
 	"errorhandler-errors": "Грешке:",
 	"errorhandler-error-fatal": "Фатална грешка",
 	"errorhandler-error-warning": "Упозорење",
