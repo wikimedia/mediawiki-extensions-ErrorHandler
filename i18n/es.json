@@ -3,10 +3,11 @@
 		"authors": [
 			"Antur",
 			"Sanbec",
-			"Macofe"
+			"Macofe",
+			"Fitoschido"
 		]
 	},
-	"errorhandler-desc": "Error operativo de MediaWiki",
+	"errorhandler-desc": "Manipulador de errores para MediaWiki",
 	"errorhandler-errors": "Errores:",
 	"errorhandler-error-fatal": "Error grave",
 	"errorhandler-error-warning": "Advertencia",
