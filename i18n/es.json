@@ -4,10 +4,11 @@
 			"Antur",
 			"Sanbec",
 			"Macofe",
-			"Fitoschido"
+			"Fitoschido",
+			"Tiberius1701"
 		]
 	},
-	"errorhandler-desc": "Manipulador de errores para MediaWiki",
+	"errorhandler-desc": "Manejador de errores para MediaWiki",
 	"errorhandler-errors": "Errores:",
 	"errorhandler-error-fatal": "Error grave",
 	"errorhandler-error-warning": "Advertencia",
