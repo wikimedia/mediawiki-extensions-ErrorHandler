@@ -1,0 +1,8 @@
+{
+	"@metadata": {
+		"authors": [
+			"Joao Xavier"
+		]
+	},
+	"errorhandler-trace-line": "$1 (lineo $2): $3"
+}
