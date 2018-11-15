@@ -1,8 +1,12 @@
 {
 	"@metadata": {
 		"authors": [
-			"Tjernobyl"
+			"Tjernobyl",
+			"Saederup92"
 		]
 	},
-	"errorhandler-errors": "Fejl:"
+	"errorhandler-errors": "Fejl:",
+	"errorhandler-error-fatal": "Fatal fejl",
+	"errorhandler-error-warning": "Advarsel",
+	"errorhandler-error-deprecated": "Forældet"
 }
