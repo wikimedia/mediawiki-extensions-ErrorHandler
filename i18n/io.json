@@ -4,5 +4,6 @@
 			"Joao Xavier"
 		]
 	},
+	"errorhandler-error-notice": "Avizo",
 	"errorhandler-trace-line": "$1 (lineo $2): $3"
 }
