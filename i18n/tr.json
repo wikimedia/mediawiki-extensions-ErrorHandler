@@ -26,7 +26,7 @@
 	"errorhandler-error-recoverable": "Yakalanabilir ölümcül hata",
 	"errorhandler-msg-text": "$1 : $2 de $3 (satır $4)",
 	"errorhandler-msg-html": "<b>$1</b> : <i>$2</i> de <b>$3</b> (satır <b>$4</b>)",
-	"errorhandler-trace": "eser:",
+	"errorhandler-trace": "iz:",
 	"errorhandler-trace-line": "$1 (satır $2): $3",
 	"errorhandler-trace-line-internal": "[dahili işlev]: $1"
 }
