@@ -1,10 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
+			"LNDDYL",
 			"Liangent",
 			"Mark85296341",
-			"Wrightbus",
-			"LNDDYL"
+			"Wrightbus"
 		]
 	},
 	"errorhandler-desc": "MediaWiki的錯誤處理程序",

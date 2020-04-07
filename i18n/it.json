@@ -1,8 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Pietrodn",
-			"Beta16"
+			"Beta16",
+			"Pietrodn"
 		]
 	},
 	"errorhandler-desc": "Gestore di errori per MediaWiki",

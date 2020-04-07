@@ -1,10 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
+			"Arthur2e5",
 			"Gaoxuewei",
 			"PhiLiP",
-			"Xiaomingyan",
-			"Arthur2e5"
+			"Xiaomingyan"
 		]
 	},
 	"errorhandler-desc": "MediaWiki的错误处理程序",
