@@ -4,6 +4,7 @@
 			"BaRaN6161 TURK",
 			"Homonihilis",
 			"Karduelis",
+			"MuratTheTurkish",
 			"Vito Genovese"
 		]
 	},
@@ -24,9 +25,9 @@
 	"errorhandler-error-user-deprecated": "Kullanıcı kullanımdan kaldırıldı",
 	"errorhandler-error-strict": "Katı standartları",
 	"errorhandler-error-recoverable": "Yakalanabilir ölümcül hata",
-	"errorhandler-msg-text": "$1 : $2 de $3 (satır $4)",
-	"errorhandler-msg-html": "<b>$1</b> : <i>$2</i> de <b>$3</b> (satır <b>$4</b>)",
+	"errorhandler-msg-text": "$1 : $2 mesajı $3 ($4 satır)",
+	"errorhandler-msg-html": "<b>$1</b> : <i>$2</i> mesajı <b>$3</b> (<b>$4</b> satır)",
 	"errorhandler-trace": "iz:",
-	"errorhandler-trace-line": "$1 (satır $2): $3",
+	"errorhandler-trace-line": "$1 ($2 satır): $3",
 	"errorhandler-trace-line-internal": "[dahili işlev]: $1"
 }
