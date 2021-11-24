@@ -6,5 +6,9 @@
 		]
 	},
 	"errorhandler-errors": "Errura:",
-	"errorhandler-error-warning": "Accura"
+	"errorhandler-error-warning": "Accura",
+	"errorhandler-error-user-error": "Erruri utenti",
+	"errorhandler-msg-text": "$1 : $2 n $3 (lìnia $4)",
+	"errorhandler-msg-html": "<b>$1</b> : <i>$2</i> n <b>$3</b> (lìnia <b>$4</b>)",
+	"errorhandler-trace-line": "$1 (lìnia $2): $3"
 }
