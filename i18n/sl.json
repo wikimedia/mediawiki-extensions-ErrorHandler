@@ -4,5 +4,7 @@
 			"Eleassar"
 		]
 	},
-	"errorhandler-errors": "Napake:"
+	"errorhandler-errors": "Napake:",
+	"errorhandler-error-warning": "Opozorilo",
+	"errorhandler-error-deprecated": "Opuščeno"
 }
