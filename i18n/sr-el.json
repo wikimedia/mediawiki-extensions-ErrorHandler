@@ -4,7 +4,7 @@
 			"Michaello"
 		]
 	},
-	"errorhandler-desc": "Prihvatač grešaka za MedijaViki",
+	"errorhandler-desc": "Upravljač grešaka za Medijaviki",
 	"errorhandler-errors": "Greške:",
 	"errorhandler-error-fatal": "Fatalna greška",
 	"errorhandler-error-warning": "Upozorenje",
