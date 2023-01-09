@@ -4,7 +4,26 @@
 			"Eleassar"
 		]
 	},
+	"errorhandler-desc": "Obravnavalnik napak za MediaWiki",
 	"errorhandler-errors": "Napake:",
+	"errorhandler-error-fatal": "Usodna napaka",
 	"errorhandler-error-warning": "Opozorilo",
-	"errorhandler-error-deprecated": "Opuščeno"
+	"errorhandler-error-parse": "Napaka razčlenjevalnika",
+	"errorhandler-error-notice": "Obvestilo",
+	"errorhandler-error-deprecated": "Opuščeno",
+	"errorhandler-error-core-error": "Napaka jedra",
+	"errorhandler-error-core-warning": "Opozorilo jedra",
+	"errorhandler-error-compile-error": "Prevedi napako",
+	"errorhandler-error-compile-warning": "Prevedi opozorilo",
+	"errorhandler-error-user-error": "Napaka uporabnika",
+	"errorhandler-error-user-warning": "Uporabniško opozorilo",
+	"errorhandler-error-user-notice": "Uporabniško obvestilo",
+	"errorhandler-error-user-deprecated": "Uporabnik opuščen",
+	"errorhandler-error-strict": "Strogi standardi",
+	"errorhandler-error-recoverable": "Ulovljiva usodna napaka",
+	"errorhandler-msg-text": "$1 : $2 v $3 (vrstica $4)",
+	"errorhandler-msg-html": "<b>$1</b> : <i>$2</i> v <b>$3</b> (vrstica <b>$4</b>)",
+	"errorhandler-trace": "sled:",
+	"errorhandler-trace-line": "$1 (vrstica $2): $3",
+	"errorhandler-trace-line-internal": "[notranja funkcija]: $1"
 }
