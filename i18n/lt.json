@@ -1,16 +1,24 @@
 {
 	"@metadata": {
 		"authors": [
-			"Eitvys200"
+			"Eitvys200",
+			"Nokeoo"
 		]
 	},
+	"errorhandler-desc": "MediaWiki klaidų tvarkytojas",
 	"errorhandler-errors": "Klaida:",
 	"errorhandler-error-fatal": "Kritinė klaida",
 	"errorhandler-error-warning": "Įspėjimas",
 	"errorhandler-error-notice": "Pranešimas",
 	"errorhandler-error-core-error": "Branduolio klaida",
 	"errorhandler-error-core-warning": "Branduolio perspėjimas",
+	"errorhandler-error-compile-error": "Kompiliavimo klaida",
+	"errorhandler-error-compile-warning": "Kompiliavimo įspėjimas",
 	"errorhandler-error-user-error": "Vartotojo klaida",
 	"errorhandler-error-user-warning": "Vartotojo perspėjimas",
-	"errorhandler-error-user-notice": "Vartotojo pastaba"
+	"errorhandler-error-user-notice": "Vartotojo pastaba",
+	"errorhandler-msg-text": "$1 : $2 $3 ($4 eilutė)",
+	"errorhandler-msg-html": "<b>$1</b> : <i>$2</i> <b>$3</b> (<b>$4</b> eilutė)",
+	"errorhandler-trace-line": "$1 ($2 eilutė): $3",
+	"errorhandler-trace-line-internal": "[vidinė funkcija]: $1"
 }
