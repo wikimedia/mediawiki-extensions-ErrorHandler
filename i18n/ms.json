@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Anakmalaysia"
+			"Anakmalaysia",
+			"Hakimi97"
 		]
 	},
 	"errorhandler-desc": "Pengelola ralat untuk MediaWiki",
@@ -9,7 +10,7 @@
 	"errorhandler-error-fatal": "Ralat mati",
 	"errorhandler-error-warning": "Amaran",
 	"errorhandler-error-parse": "Ralat penghurai",
-	"errorhandler-error-notice": "Pemberitahuan",
+	"errorhandler-error-notice": "Notis",
 	"errorhandler-error-deprecated": "Lapuk",
 	"errorhandler-error-core-error": "Ralat teras",
 	"errorhandler-error-core-warning": "Amaran teras",
@@ -17,7 +18,7 @@
 	"errorhandler-error-compile-warning": "Amaran kompil",
 	"errorhandler-error-user-error": "Ralat pengguna",
 	"errorhandler-error-user-warning": "Amaran pengguna",
-	"errorhandler-error-user-notice": "Pemberitahuaan pengguna",
+	"errorhandler-error-user-notice": "Notis pengguna",
 	"errorhandler-error-user-deprecated": "Pengguna dibuang",
 	"errorhandler-error-strict": "Piawaian ketat",
 	"errorhandler-error-recoverable": "Ralat mati yang boleh ditangkap",
