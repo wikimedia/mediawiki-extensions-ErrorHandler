@@ -1,9 +1,10 @@
 {
 	"@metadata": {
 		"authors": [
+			"Htawmonzel",
 			"咽頭べさ"
 		]
 	},
-	"errorhandler-error-notice": "ဂဗံက်လလောၚ်",
-	"errorhandler-error-user-notice": "ဂဗံက်လလောၚ်ညးလွပ်"
+	"errorhandler-error-notice": "ဂတဵုလလောင်",
+	"errorhandler-error-user-notice": "ဂတဵုလလောင် ညးလွပ်"
 }
