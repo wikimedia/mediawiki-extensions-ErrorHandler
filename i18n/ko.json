@@ -4,7 +4,8 @@
 			"Hym411",
 			"Priviet",
 			"Revi",
-			"Yjs5497"
+			"Yjs5497",
+			"Tensama0415"
 		]
 	},
 	"errorhandler-desc": "미디어위키 오류 처리기",
@@ -13,7 +14,7 @@
 	"errorhandler-error-warning": "경고",
 	"errorhandler-error-parse": "파서 오류",
 	"errorhandler-error-notice": "알림",
-	"errorhandler-error-deprecated": "사용되지 않음",
+	"errorhandler-error-deprecated": "구식임",
 	"errorhandler-error-core-error": "코드 오류",
 	"errorhandler-error-core-warning": "코어 경고",
 	"errorhandler-error-compile-error": "컴파일 오류",
