@@ -1,0 +1,29 @@
+{
+	"@metadata": {
+		"authors": [
+			"AhmedG612"
+		]
+	},
+	"errorhandler-desc": "Maareeyaha khaladaadka ee MediaWiki",
+	"errorhandler-errors": "Khaladaadka:",
+	"errorhandler-error-fatal": "Khalad halis ah",
+	"errorhandler-error-warning": "Digniin",
+	"errorhandler-error-parse": "Khalad falanqeeyaha",
+	"errorhandler-error-notice": "Ogeysiis",
+	"errorhandler-error-deprecated": "Duugoobay",
+	"errorhandler-error-core-error": "Khalad xudunta nidaamka",
+	"errorhandler-error-core-warning": "Digniin xudunta nidaamka",
+	"errorhandler-error-compile-error": "Khalad isku dubaridid",
+	"errorhandler-error-compile-warning": "Digniin isku-dubaridid",
+	"errorhandler-error-user-error": "Khaladka isticmaalaha",
+	"errorhandler-error-user-warning": "Digniinta isticmaalaha",
+	"errorhandler-error-user-notice": "Ogeysiiska Isticmaalaha",
+	"errorhandler-error-user-deprecated": "Isticmaale duugoobay",
+	"errorhandler-error-strict": "Heerarka adag",
+	"errorhandler-error-recoverable": "Khalad halis ah oo la qaban karo",
+	"errorhandler-msg-text": "$1: $2 ee $3 (sadarka $4)",
+	"errorhandler-msg-html": "<b>$1</b> : <i>$2</i> ee <b>$3</b> (sadarka <b>$4</b>)",
+	"errorhandler-trace": "raadraac:",
+	"errorhandler-trace-line": "$1 (sadarka $2): $3",
+	"errorhandler-trace-line-internal": "[hawl gudaha ah]: $1"
+}
