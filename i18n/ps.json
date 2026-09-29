@@ -1,10 +1,26 @@
 {
 	"@metadata": {
 		"authors": [
-			"Ahmed-Najib-Biabani-Ibrahimkhel"
+			"Ahmed-Najib-Biabani-Ibrahimkhel",
+			"شاه زمان پټان"
 		]
 	},
+	"errorhandler-desc": "د مېډياويکي تېروتنې سمبالوونکی",
 	"errorhandler-errors": "تېروتنې:",
+	"errorhandler-error-fatal": "وژونکې تېروتنه",
 	"errorhandler-error-warning": "گواښنه",
-	"errorhandler-error-user-warning": "د کارن گواښنه"
+	"errorhandler-error-parse": "ټوټه‌کوونکې تېروتنه",
+	"errorhandler-error-notice": "خبرتيا",
+	"errorhandler-error-deprecated": "له  پامه غورځول شوی",
+	"errorhandler-error-user-error": "کارن تېروتنه",
+	"errorhandler-error-user-warning": "د کارن گواښنه",
+	"errorhandler-error-user-notice": "کارن خبرتيا",
+	"errorhandler-error-user-deprecated": "کارن له‌پامه‌غورځول‌شوی",
+	"errorhandler-error-strict": "سخت معيارونه",
+	"errorhandler-error-recoverable": "د نيولو وړ وژونکې تېروتنه",
+	"errorhandler-msg-text": "$1: $3 کې $2 ($4 کرښه)",
+	"errorhandler-msg-html": "<b>$1</b> : <b>$3</b> کې <i>$2</i> (<b>$4</b> کرښه)",
+	"errorhandler-trace": "پل‌څار:",
+	"errorhandler-trace-line": "$1 ($2 کرښه): $3",
+	"errorhandler-trace-line-internal": "[دننه‌نۍ کړنچار]: $1"
 }
