@@ -3,7 +3,8 @@
 		"authors": [
 			"Les Meloures",
 			"Robby",
-			"Soued031"
+			"Soued031",
+			"Volvox"
 		]
 	},
 	"errorhandler-desc": "Feelerbehandlung fir MediaWiki",
@@ -23,9 +24,9 @@
 	"errorhandler-error-user-deprecated": "Benotzer refuséiert",
 	"errorhandler-error-strict": "Strikte Standard",
 	"errorhandler-error-recoverable": "Erfaassbare fatale Feeler",
-	"errorhandler-msg-text": "$1 : $2 a(n) $3 (Linn $4)",
-	"errorhandler-msg-html": "<b>$1</b> : <i>$2</i> a(n) <b>$3</b> (Linn <b>$4</b>)",
+	"errorhandler-msg-text": "$1 : $2 a(n) $3 (Zeil $4)",
+	"errorhandler-msg-html": "<b>$1</b> : <i>$2</i> a(n) <b>$3</b> (Zeil <b>$4</b>)",
 	"errorhandler-trace": "Spuer:",
-	"errorhandler-trace-line": "$1 (Linn $2): $3",
+	"errorhandler-trace-line": "$1 (Zeil $2): $3",
 	"errorhandler-trace-line-internal": "[intern Funktioun]: $1"
 }
